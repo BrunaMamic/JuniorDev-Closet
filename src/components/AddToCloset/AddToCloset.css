@@ -1,0 +1,83 @@
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  /* align-items: baseline; */
+
+  background-color: #fffbe9;
+
+  width: 20rem;
+  height: 36em;
+  border-radius: 50px;
+
+  font-style: normal;
+  color: #cea488;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.title {
+  color: #977761;
+  font-size: 30px;
+}
+
+.allInputs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.input {
+  display: flex;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ad8b73;
+}
+
+textarea {
+  width: 70%;
+  resize: vertical;
+  padding: 15px;
+  border-radius: 15px;
+  border: 0;
+
+  height: 100px;
+  background-color: #ad8b73;
+}
+
+input[type="url"] {
+  width: 70%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ad8b73;
+}
+
+input[type="submit"] {
+  background-color: #ad8b73;
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 1rem 1.6rem;
+  width: 74px;
+
+  margin-left: 100px;
+  margin-top: 25px;
+}
+
+input[type="submit"]:hover {
+  background-color: #393837;
+  color: #fff;
+}
+
+.errorText{
+  color: red;
+  font-size: 12px;
+}

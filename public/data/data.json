@@ -1,0 +1,112 @@
+{
+  "myCloset": [
+    {
+      "id": 11,
+      "type": "Jacket",
+      "size": "L",
+      "color": "#969696",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2022/I/0/1/p/3046/301/802/2/w/1920/3046301802_6_1_1.jpg?ts=1664361820225",
+      "details": "new gray coat"
+    },
+    {
+      "type": "Jeans",
+      "size": "S",
+      "color": "#fafafa",
+      "condition": "Used",
+      "image": "",
+      "details": "",
+      "id": 13
+    },
+    {
+      "type": "Dress",
+      "size": "XS",
+      "color": "#d789d0",
+      "condition": "Used",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2022/08/30/630dd4ac678c3aa139050cf5/m_630dd4f9ff0484eb361ad66d.jpg",
+      "details": "lilac dress, price 30$",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "type": "Dress",
+      "size": "S",
+      "color": "#d789d0",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/6050/316/800/2/w/438/6050316800_1_1_1.jpg?ts=1679326217410",
+      "details": "new Zara black dress, price 50$"
+    },
+    {
+      "id": 16,
+      "type": "Jeans",
+      "size": "M",
+      "color": "#84b4e1",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/6164/023/406/2/w/1920/6164023406_6_1_1.jpg?ts=1672843012920",
+      "details": "new Zara washed blue jeans"
+    },
+    {
+      "id": 17,
+      "type": "Skirt",
+      "size": "S",
+      "color": "#84b4e1",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2022/I/0/3/p/6050/523/800/2/w/324/6050523800_6_1_1.jpg?ts=1667810980349",
+      "details": "faux leather black skirt"
+    },
+    {
+      "id": 18,
+      "type": "Shirt",
+      "size": "M",
+      "color": "#ffffff",
+      "condition": "New",
+      "image": "https://photos6.spartoo.com.hr/photos/764/7646428/7646428_500_A.jpg",
+      "details": "Adidas orginals t-shirt"
+    },
+    {
+      "id": 19,
+      "type": "Jacket",
+      "size": "XL",
+      "color": "#929dd3",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2023/V/0/3/p/0562/617/406/2/w/560/0562617406_6_1_1.jpg?ts=1673279035808",
+      "details": "BOMBER JACKET"
+    },
+    {
+      "type": "Jacket",
+      "size": "XS",
+      "color": "#929dd3",
+      "condition": "New",
+      "image": "https://static.zara.net/photos///2023/V/0/1/p/4341/736/800/2/w/1920/4341736800_6_1_1.jpg?ts=1676463923930",
+      "details": "leather jacket",
+      "id": 20
+    },
+    {
+      "type": "Jeans",
+      "size": "XS",
+      "color": "#929dd3",
+      "condition": "Used",
+      "image": "https://imgs7.luluandsky.com/catalog/product/8/9/89WG-20326-BLACK_5.jpg",
+      "details": "black jeans",
+      "id": 21
+    },
+    {
+      "id": 22,
+      "type": "Accessories",
+      "size": "M",
+      "color": "#f46767",
+      "condition": "New",
+      "image": "",
+      "details": "red hat"
+    },
+    {
+      "id": 23,
+      "type": "Shirt",
+      "size": "S",
+      "color": "#f76969",
+      "condition": "New",
+      "image": "",
+      "details": "red shirt"
+    }
+  ]
+}

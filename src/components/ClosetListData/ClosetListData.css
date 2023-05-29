@@ -1,0 +1,65 @@
+.edit {
+  background-color: #f7e2c2;
+  margin-left: 10px;
+  border-radius: 19px;
+  color: #957864;
+  border: 1px solid #ceab93;
+  width: 16em;
+  position: relative;
+}
+
+.infoDecor {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.forDeleteDecor {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.actionContainer {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  justify-content: center;
+}
+
+
+.imgPlaceholder{
+  height: 200px;
+  width: 150px;
+  background-color: red;
+  background-image: url("https://media.istockphoto.com/id/1183106359/vector/wardrobe.jpg?s=612x612&w=0&k=20&c=7wfk2aj2Zk81DzMEhzFXcHcfEjhEQQFfxSTw0QOQWWg=");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.itemPlusModal {
+  margin-bottom: 20px;
+}
+
+.moreButton {
+  margin-right: 10px;
+  background-color: #cdb899a1;
+  color: black;
+  font-size: 1.1em;
+}
+
+.updateButton {
+  background-color: #cdb899a1;
+  color: black;
+  font-size: 1.1em;
+}
+
+.updateButton:hover, .moreButton:hover {
+  font-size: 1.2em;
+}
+
+
+

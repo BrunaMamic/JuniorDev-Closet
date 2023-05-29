@@ -1,0 +1,27 @@
+.popup {
+    background-color: #dfddddad;
+    border-radius: 2%;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    max-width: 600px;
+    width: 100%;
+    max-height: 90vh;
+    color: #644732;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.fade {
+  background-color: rgba(0, 0, 0, 0.5);
+  
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 998;
+}

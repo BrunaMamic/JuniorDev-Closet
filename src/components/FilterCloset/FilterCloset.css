@@ -1,0 +1,42 @@
+.filterType, .filterSize, .filterCondition {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 0.1px #f7e2c2 solid;
+  border-radius: 19px;
+  width: 358px;
+  height: 176px;
+}
+
+.button-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+.filterButton{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    background-color: #cdb899a1;
+    color: black;
+    font-size: 0.8em;
+}
+
+.active{
+    background-color: #000000a1;
+}
+
+.filterButton:hover{
+    background-color: #000000a1;
+    color: black;
+}
+
+.filter-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 67px;
+    /* margin-left: 305px; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
